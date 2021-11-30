@@ -1,0 +1,10 @@
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\bin\Debug\ProjetMemoire.exe.config
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\bin\Debug\ProjetMemoire.exe
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\bin\Debug\ProjetMemoire.pdb
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.csproj.AssemblyReference.cache
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.frmExerciceMem.resources
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.Properties.Resources.resources
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.csproj.GenerateResource.cache
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.csproj.CoreCompileInputs.cache
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.exe
+E:\Documents Scolaires\2021 Automne\Programmation système\Laboratoire 11\MemoireProjet\ProjetMemoire\obj\Debug\ProjetMemoire.pdb
